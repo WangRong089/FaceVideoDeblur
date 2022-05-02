@@ -89,7 +89,7 @@ python runner.py
 ```
 
 ## Acknowledgement
-The implementation is modified from STFAN, please consider citing them below if you find the code useful.
+The main model is modified from STFAN, please consider citing them below if you find the code useful.
 
 ```
 @inproceedings{zhou2019stfan,
@@ -99,6 +99,8 @@ The implementation is modified from STFAN, please consider citing them below if 
   year={2019}
 }
 ```
+
+The heatmap prediction branch is borrowed from [kfsgnet](https://github.com/raymon-tian/hourglass-facekeypoints-detection).
 
 ## Contact
 
